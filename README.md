@@ -40,7 +40,7 @@
   - slackware + JE
   - TurboLinux(当時はこれが一番、日本語化がよかった。いつの間にか、廃れてなくなった。)
   - Fedora(ちょこっと、お試しだけ)
-  - OpenSuSE (今、Leap 15.4)
+  - OpenSuSE (今、Leap 15.5)
 - ソフトウェアエンジニアなのにハードウェアが好き(?!)
   - 学生時代には卒業研究でロボットの制御の研究をしていました。
   - 社会人になって、最初に外資系の会社で中型機(ミニコン)の組み立て、周辺機器の製品検査等の業務を行っていました。
@@ -63,9 +63,10 @@
 
 # こんな仕事を募集しています
 
-- 現在は平日の通常時間帯(9:00～18:00)で開発案件を一件持っています。それ以外の時間帯でできる、副業としてのお仕事を探しております。
+- 現在は平日の通常時間帯(9:00～18:00)で開発案件を一件持っています。それ以外で、2件のITスクールの副業を持っています。
 - 開発の経験年数は長いのですが、副業として開発以外の業務に携わり、そのキャリアを伸ばし、パラレルキャリアで将来のリスク分散を図りたいと考えています
 - 契約はまずは、業務委託を前提とします。複数案件を平行してこなす場合がありますので、他の案件の状況(契約終了とか)によっては、フルタイムに切り替えても構いません。
+- 現在は、本業1件と副業2件を並行していますが、本業、副業ともに契約終了に伴い空きができる場合がありますので、その際、タイミングが合えばお仕事をお受けしたいです。
 - 単純に造る作業もそれはそれで、楽しいし好きなんですが、もっと顧客に何かの「価値」を提案できるような立場でお仕事がしたいです。
 - システム企画、要件定義等
   - お客様(システムオーナ)と一緒になって、アレコレ試行錯誤でシステム化を考えるようなお仕事。
@@ -93,6 +94,33 @@
 
 # 主な直近の職歴
 
+## ITスクールの講師
+- 期間2023.10 〜 現在
+- 概要
+  ITスクールの講師
+  60分/週で、zoomで対面、マンツーマンで行う
+  Java、Webアプリコース
+  現在1名の受講生を担当
+- 使用技術
+  - HTML/CSS
+  - JavaScript
+  - JQuery
+  - Linux
+  - Java
+  - MySQL
+  - SpringBoot  
+
+## ITスクールの講師用の教材作成
+- 期間2023.04 〜 現在
+- 概要
+  ITスクールで講師が使用する教材テキストの作成。
+  MicroSoft PowerPointで70〜80ページ/月 程度。
+  Kubernetes入門の教材テキストの作成。1テーマ/月 毎に作成
+- 使用技術
+  - Kubernetes
+  - Rancher Desktop
+  - Docker
+  
 ## 製薬卸会社の在庫管理システム
 
 - 期間2022.07 〜 現在
@@ -106,16 +134,33 @@
   kotlinでAndroidと対向するサーバサイドの開発
   既存のWindowsCE端末のアプリをWeb化(React、TypeScript)
 - 使用技術
-  - AndroidR(11)
-  - Kotlin1.9(Android、サーバサイド共に)
-  - AndroidStudio
-  - Room
-  - ViewModel
-  - coroutine
-  - retrofit
-  - SpringBoot3
-  - React
-  - TypeScript
+  - Android 
+    - AndroidR(11)
+    - Kotlin 1.9
+    - AndroidStudio
+    - Room
+    - ViewModel
+    - coroutine
+    - retrofit
+    - OpenAPI、Swagger
+    - CameraX(Android標準カメラライブラリ)
+    - ML-Kit Analyzer(Android標準バーコードライブラリ)
+    - バーコードライブラリ(キーエンス社独自)
+  - サーバサイド
+    - Kotlin 1.9
+    - SpringBoot3
+    - exposed
+    - OpenAPI、Swagger
+    - Oracle
+    - PostgreSQL
+    - IntelliJ
+    - gradle
+  - Webアプリ
+    - vscode 
+    - nodejs
+    - React
+    - OpenAPI、Swagger
+    - TypeScript、JavaScript
 - 役割
   - アーキテクト
   - 設計担当
