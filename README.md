@@ -1,3 +1,18 @@
+<p align="left">
+  <a href="https://github.com/cozyk100">
+    <img height="20" src="https://komarev.com/ghpvc/?username=cozyk100" />
+  </a>
+  <a href="https://github.com/cozyk100">
+    <img height="20" src="https://img.shields.io/github/followers/cozyk100?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/cozyk100">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/cozyk100/posts.svg" />
+  </a>
+  <a href="http://qiita.com/cozyk100">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/cozyk100/contributions.svg" />
+  </a>
+</p>
+
 # わたしのポートフォーリオ
 
 現在、地方でフリーランスでエンジニアとして活動しております。
@@ -77,14 +92,20 @@
   プロジェクトとしてはAndroid端末は初導入。
   プロジェクト内ではAndroidの知見は全くなし。 
   将来、Android開発が本格化する前の先行開発。
-  そのための、ノウハウの集積の役目も担う。 
+  そのための、ノウハウの集積の役目も担う。
+  kotlinでAndroidと対向するサーバサイドの開発
+  既存のWindowsCE端末のアプリをWeb化(React、TypeScript)
 - 使用技術
   - AndroidR(11)
-  - Kotlin1.7
+  - Kotlin1.9(Android、サーバサイド共に)
   - AndroidStudio
   - Room
   - ViewModel
-  - RxJava
+  - coroutine
+  - retrofit
+  - SpringBoot3
+  - React
+  - TypeScript
 - 役割
   - アーキテクト
   - 設計担当
