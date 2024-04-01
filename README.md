@@ -158,9 +158,11 @@
   - Webアプリ
     - vscode 
     - nodejs
-    - React
+    - React(18.x)
+    - next.js(14.x)
     - OpenAPI、Swagger
     - TypeScript、JavaScript
+    - MUI、MUI Datagrid
 - 役割
   - アーキテクト
   - 設計担当
