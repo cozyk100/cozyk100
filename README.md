@@ -120,6 +120,7 @@
   - Kubernetes
   - Rancher Desktop
   - Docker
+  - AWS(EKS、ECR、ECS、CodeBuild、CodePipeline等)
   
 ## 製薬卸会社の在庫管理システム
 
