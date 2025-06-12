@@ -94,6 +94,57 @@
 
 # 主な直近の職歴
 
+## 製薬卸会社の在庫管理システム
+
+- 期間2022.07 〜 2025.06
+- 概要
+  既存のWindowsCE端末からAndroid端末へのリプレース。  
+  Android端末で各種バーコードを使った在庫管理アプリの構築。 
+  プロジェクトとしてはAndroid端末は初導入。
+  プロジェクト内ではAndroidの知見は全くなし。 
+  将来、Android開発が本格化する前の先行開発。
+  そのための、ノウハウの集積の役目も担う。
+  kotlinでAndroidと対向するサーバサイドの開発
+  既存のWindowsCE端末のアプリをWeb化(React、TypeScript)
+- 使用技術
+  - Android 
+    - AndroidR(11)
+    - Kotlin 2.x
+    - AndroidStudio
+    - Room
+    - ViewModel
+    - coroutine
+    - retrofit
+    - OpenAPI、Swagger
+    - CameraX(Android標準カメラライブラリ)
+    - ML-Kit Analyzer(Android標準バーコードライブラリ)
+    - バーコードライブラリ(キーエンス社独自)
+  - サーバサイド
+    - Kotlin 2.0
+    - SpringBoot3
+    - exposed
+    - OpenAPI、Swagger
+    - Oracle
+    - PostgreSQL 16
+    - IntelliJ
+    - gradle
+  - Webアプリ
+    - vscode, cursor
+    - nodejs
+    - React(18.x)
+    - next.js(14.x)
+    - OpenAPI、Swagger
+    - TypeScript、JavaScript
+    - MUI、MUI Datagrid
+  - 帳票印刷
+    - JasperReports
+- 役割
+  - アーキテクト
+  - 設計担当
+  - 製造担当
+  - 試験担当
+  - 将来のAndroid端末を本格導入するためのノウハウを蓄積するのが役目。
+
 ## ITスクールの講師
 - 期間2023.10 〜 現在
 - 概要
@@ -111,7 +162,7 @@
   - SpringBoot  
 
 ## ITスクールの講師用の教材作成
-- 期間2023.04 〜 現在
+- 期間2023.04 〜 2024.03
 - 概要
   ITスクールで講師が使用する教材テキストの作成。
   MicroSoft PowerPointで70〜80ページ/月 程度。
@@ -122,55 +173,6 @@
   - Docker
   - AWS(EKS、ECR、ECS、CodeBuild、CodePipeline等)
   
-## 製薬卸会社の在庫管理システム
-
-- 期間2022.07 〜 現在
-- 概要
-  既存のWindowsCE端末からAndroid端末へのリプレース。  
-  Android端末で各種バーコードを使った在庫管理アプリの構築。 
-  プロジェクトとしてはAndroid端末は初導入。
-  プロジェクト内ではAndroidの知見は全くなし。 
-  将来、Android開発が本格化する前の先行開発。
-  そのための、ノウハウの集積の役目も担う。
-  kotlinでAndroidと対向するサーバサイドの開発
-  既存のWindowsCE端末のアプリをWeb化(React、TypeScript)
-- 使用技術
-  - Android 
-    - AndroidR(11)
-    - Kotlin 1.9
-    - AndroidStudio
-    - Room
-    - ViewModel
-    - coroutine
-    - retrofit
-    - OpenAPI、Swagger
-    - CameraX(Android標準カメラライブラリ)
-    - ML-Kit Analyzer(Android標準バーコードライブラリ)
-    - バーコードライブラリ(キーエンス社独自)
-  - サーバサイド
-    - Kotlin 1.9
-    - SpringBoot3
-    - exposed
-    - OpenAPI、Swagger
-    - Oracle
-    - PostgreSQL
-    - IntelliJ
-    - gradle
-  - Webアプリ
-    - vscode 
-    - nodejs
-    - React(18.x)
-    - next.js(14.x)
-    - OpenAPI、Swagger
-    - TypeScript、JavaScript
-    - MUI、MUI Datagrid
-- 役割
-  - アーキテクト
-  - 設計担当
-  - 製造担当
-  - 試験担当
-  - 将来のAndroid端末を本格導入するためのノウハウを蓄積するのが役目。
-
 ## 携帯通信事業者向けAndroidアプリ配信システムの新規開発
 
 - 期間 2021.11 〜 2022.06末
